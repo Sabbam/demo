@@ -1,0 +1,43 @@
+*{
+font-family: 'Poppins', sans-serif;
+}
+nav{
+    color:gold;
+    list-style: none;
+    transition: 3s;
+}
+nav li{
+    list-style: none;
+    text-decoration: none;
+    float:left;
+    padding-left: 100px;
+    padding-right: 170px;
+    margin-top: 10px;
+
+}
+header{
+    background-color:#F7A76C;
+}
+h1{
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+logo{
+    text-align: center;
+}
+marquee{
+    background-color:#AEBDCA;
+    color:#E14D2A;
+}
+nav li:hover{
+    background-color: aqua;
+}
+nav li a:hover{
+    background-color: white;
+}
+
+
+
+
+
+
